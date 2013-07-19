@@ -1,0 +1,77 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Comment CommentText="allow obj to alter its behavior on its state change&#xD;&#xA;the obj will appear to change its class">
+    <Position X="0.5" Y="0.5" Height="0.521" Width="2.95" />
+  </Comment>
+  <Comment CommentText="behavior classes">
+    <Position X="2.823" Y="5.865" Height="0.343" Width="5.45" />
+  </Comment>
+  <Class Name="State.State">
+    <Position X="4.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ABAAAAAAAAAABAAAAAAAAAAAAAAQAAAAAAAAAAAAEAA=</HashCode>
+      <FileName>State.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="State.TravelManager">
+    <Position X="0.75" Y="2.25" Width="1.5" />
+    <AssociationLine Name="State" Type="State.State" ManuallyRouted="true" FixedFromPoint="true" FixedToPoint="true">
+      <Path>
+        <Point X="2.25" Y="2.469" />
+        <Point X="5.125" Y="2.469" />
+        <Point X="5.125" Y="2.18" />
+      </Path>
+    </AssociationLine>
+    <TypeIdentifier>
+      <HashCode>ABAAAAAAAAAABAAAAAAAAAAAAAAQAAAEAAAABAAAEAA=</HashCode>
+      <FileName>TravelManager.cs</FileName>
+    </TypeIdentifier>
+    <ShowAsAssociation>
+      <Property Name="State" />
+    </ShowAsAssociation>
+  </Class>
+  <Class Name="State.India">
+    <Position X="2.75" Y="3.25" Width="1.5" />
+    <InheritanceLine Type="State.State" ManuallyRouted="true">
+      <Path>
+        <Point X="5.5" Y="2.18" />
+        <Point X="5.5" Y="2.823" />
+        <Point X="3.5" Y="2.823" />
+        <Point X="3.5" Y="3.25" />
+      </Path>
+    </InheritanceLine>
+    <TypeIdentifier>
+      <HashCode>ABAAAAAAAAAAAAAAAAAAAAAAAAAQAAAEQAAAAAAAEAA=</HashCode>
+      <FileName>India.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="State.US">
+    <Position X="6.75" Y="3.25" Width="1.5" />
+    <InheritanceLine Type="State.State" ManuallyRouted="true">
+      <Path>
+        <Point X="5.5" Y="2.18" />
+        <Point X="5.5" Y="2.823" />
+        <Point X="7.5" Y="2.823" />
+        <Point X="7.5" Y="3.25" />
+      </Path>
+    </InheritanceLine>
+    <TypeIdentifier>
+      <HashCode>ABAAAAAAAAAAAAAAAAAAAAAAAAAQAAAEQAAAAAAAEAA=</HashCode>
+      <FileName>US.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="State.UK">
+    <Position X="4.75" Y="3.25" Width="1.5" />
+    <InheritanceLine Type="State.State" FixedToPoint="true">
+      <Path>
+        <Point X="5.5" Y="2.18" />
+        <Point X="5.5" Y="3.25" />
+      </Path>
+    </InheritanceLine>
+    <TypeIdentifier>
+      <HashCode>ABAAAAAAAAAAAAAAAAAAAAAAAAAQAAAEQAAAAAAAEAA=</HashCode>
+      <FileName>UK.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

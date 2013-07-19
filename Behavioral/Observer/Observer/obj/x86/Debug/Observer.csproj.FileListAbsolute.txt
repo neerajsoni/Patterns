@@ -1,0 +1,5 @@
+F:\snippets2\Patterns\Behavioral\Observer\Observer\bin\Debug\Observer.exe
+F:\snippets2\Patterns\Behavioral\Observer\Observer\bin\Debug\Observer.pdb
+F:\snippets2\Patterns\Behavioral\Observer\Observer\obj\x86\Debug\Observer.csprojResolveAssemblyReference.cache
+F:\snippets2\Patterns\Behavioral\Observer\Observer\obj\x86\Debug\Observer.exe
+F:\snippets2\Patterns\Behavioral\Observer\Observer\obj\x86\Debug\Observer.pdb

@@ -1,0 +1,12 @@
+F:\snippets2\.net 4.0 examples\patterns\Observer\Observer\bin\Debug\Observer.exe
+F:\snippets2\.net 4.0 examples\patterns\Observer\Observer\bin\Debug\Observer.pdb
+F:\snippets2\.net 4.0 examples\patterns\Observer\Observer\obj\x86\Debug\ResolveAssemblyReference.cache
+F:\snippets2\.net 4.0 examples\patterns\Observer\Observer\obj\x86\Debug\Observer.exe
+F:\snippets2\.net 4.0 examples\patterns\Observer\Observer\obj\x86\Debug\Observer.pdb
+F:\snippets2\Patterns\Behavioral\Observer\Observer\obj\x86\Debug\Observer.exe
+F:\snippets2\Patterns\Behavioral\Observer\Observer\obj\x86\Debug\Observer.pdb
+F:\snippets2\Patterns\Behavioral\Observer - C# 4.0\Observer\obj\x86\Debug\Observer.exe
+F:\snippets2\Patterns\Behavioral\Observer - C# 4.0\Observer\obj\x86\Debug\Observer.pdb
+F:\snippets2\Patterns\Behavioral\Observer - C# 4.0\Observer\bin\Debug\Observer.exe
+F:\snippets2\Patterns\Behavioral\Observer - C# 4.0\Observer\bin\Debug\Observer.pdb
+F:\snippets2\Patterns\Behavioral\Observer - C# 4.0\Observer\obj\x86\Debug\Observer.csprojResolveAssemblyReference.cache

@@ -1,0 +1,16 @@
+F:\snippets2\.net 4.0 examples\patterns\EventBroker\EventBroker\bin\Debug\EventBroker.exe
+F:\snippets2\.net 4.0 examples\patterns\EventBroker\EventBroker\bin\Debug\EventBroker.pdb
+F:\snippets2\.net 4.0 examples\patterns\EventBroker\EventBroker\obj\x86\Debug\ResolveAssemblyReference.cache
+F:\snippets2\.net 4.0 examples\patterns\EventBroker\EventBroker\obj\x86\Debug\GenerateResource.read.1.tlog
+F:\snippets2\.net 4.0 examples\patterns\EventBroker\EventBroker\obj\x86\Debug\GenerateResource.write.1.tlog
+F:\snippets2\.net 4.0 examples\patterns\EventBroker\EventBroker\obj\x86\Debug\EventBroker.exe
+F:\snippets2\.net 4.0 examples\patterns\EventBroker\EventBroker\obj\x86\Debug\EventBroker.pdb
+F:\snippets2\.net 4.0 examples\patterns\EventBroker\EventBroker\obj\x86\Debug\EventBrokerPattern.Form1.resources
+F:\snippets2\.net 4.0 examples\patterns\EventBroker\EventBroker\obj\x86\Debug\EventBrokerPattern.MyControl1.resources
+F:\snippets2\.net 4.0 examples\patterns\EventBroker\EventBroker\obj\x86\Debug\EventBrokerPattern.MyControl2.resources
+F:\snippets2\.net 4.0 examples\patterns\EventBroker\EventBroker\obj\x86\Debug\EventBrokerPattern.MyControl3.resources
+F:\snippets2\.net 4.0 examples\patterns\EventBroker\EventBroker\obj\x86\Debug\EventBrokerPattern.Properties.Resources.resources
+F:\snippets2\.net 4.0 examples\patterns\EventBroker\EventBroker\bin\Debug\EventBroker.exe.config
+F:\snippets2\Patterns\Behavioral\EventBroker\EventBroker\bin\Debug\EventBroker.exe.config
+F:\snippets2\Patterns\Behavioral\EventBroker\EventBroker\obj\x86\Debug\EventBroker.exe
+F:\snippets2\Patterns\Behavioral\EventBroker\EventBroker\obj\x86\Debug\EventBroker.pdb
