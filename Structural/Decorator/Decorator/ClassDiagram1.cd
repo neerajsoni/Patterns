@@ -1,0 +1,67 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Comment CommentText="add aditional responsibility  to an obj dynamically">
+    <Position X="5.073" Y="0.5" Height="0.417" Width="3.273" />
+  </Comment>
+  <Class Name="Decorator.ControlComponent">
+    <Position X="1.25" Y="2.25" Width="2" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAgAAAAAAIAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>ControlComponent.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="Decorator.DecorationA" Collapsed="true">
+    <Position X="1.75" Y="4.25" Width="1.5" />
+    <InheritanceLine Type="Decorator.Decorator" FixedToPoint="true">
+      <Path>
+        <Point X="5.375" Y="3.69" />
+        <Point X="5.375" Y="3.95" />
+        <Point X="2.5" Y="3.95" />
+        <Point X="2.5" Y="4.25" />
+      </Path>
+    </InheritanceLine>
+    <TypeIdentifier>
+      <HashCode>AAAAAACAAAAgAAAAAAIAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>DecorationA.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Decorator.DecorationB" Collapsed="true">
+    <Position X="3.75" Y="4.25" Width="1.5" />
+    <InheritanceLine Type="Decorator.Decorator" ManuallyRouted="true" FixedToPoint="true">
+      <Path>
+        <Point X="5.375" Y="3.69" />
+        <Point X="5.375" Y="3.95" />
+        <Point X="4.5" Y="3.95" />
+        <Point X="4.5" Y="4.25" />
+      </Path>
+    </InheritanceLine>
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAkAAAAAAIAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>DecorationB.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Decorator.DecorationC" Collapsed="true">
+    <Position X="5.75" Y="4.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAACgAAAAAAIAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>DecorationC.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Decorator.Decorator">
+    <Position X="4.5" Y="1.75" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAgAAAAAAIAAAAAAAAAQAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Decorator.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Interface Name="Decorator.IWindowObject">
+    <Position X="2.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAgAAAAAAIAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>IWindowObject.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

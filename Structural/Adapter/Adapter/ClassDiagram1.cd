@@ -1,0 +1,44 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Comment CommentText="convert i/f of one cls into another. &#xD;&#xA;adapters let incompatible classes work together&#xD;&#xA;same obj of interface type is capable of calling both the orders">
+    <Position X="0.5" Y="0.5" Height="0.761" Width="2.804" />
+  </Comment>
+  <Comment CommentText="Adapter class">
+    <Position X="3.271" Y="3.573" Height="0.354" Width="1.46" />
+  </Comment>
+  <Comment CommentText="Adaptee class, 3rd party">
+    <Position X="0.542" Y="2.958" Height="0.562" Width="1.44" />
+  </Comment>
+  <Class Name="Adapter.FastFoodOrder">
+    <Position X="5.5" Y="2.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>FastFoodOrder.cs</FileName>
+      <NewMemberFileName>FastfoodOrder.cs</NewMemberFileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.144" />
+  </Class>
+  <Class Name="Adapter.FrenchFoodOrder">
+    <Position X="3.25" Y="2.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>FrenchFoodOrder.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.1" />
+  </Class>
+  <Class Name="Adapter.FrenchRestaurant">
+    <Position X="0.5" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>FrenchRestaurant.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Interface Name="Adapter.FoodOrder">
+    <Position X="4.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>FoodOrder.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

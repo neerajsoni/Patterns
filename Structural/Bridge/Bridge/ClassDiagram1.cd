@@ -1,0 +1,58 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1" MembersFormat="FullSignature">
+  <Comment CommentText="decouple an abs from its impl&#xD;&#xA;they vary independently">
+    <Position X="0.5" Y="0.5" Height="0.49" Width="2.356" />
+  </Comment>
+  <Comment CommentText="interface">
+    <Position X="0.51" Y="1.157" Height="0.291" Width="3.617" />
+  </Comment>
+  <Comment CommentText="implementation">
+    <Position X="4.99" Y="1.135" Height="0.291" Width="3.575" />
+  </Comment>
+  <Class Name="Bridge.PurchaseOrder">
+    <Position X="1.25" Y="1.5" Width="2" />
+    <TypeIdentifier>
+      <HashCode>AAECAAAAAAAAAIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>PurchaseOrder.cs</FileName>
+    </TypeIdentifier>
+    <ShowAsAssociation>
+      <Property Name="Supplier" />
+    </ShowAsAssociation>
+  </Class>
+  <Class Name="Bridge.Supplier">
+    <Position X="6" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAQAAAAA=</HashCode>
+      <FileName>Supplier.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Bridge.OfficeSupplyPO">
+    <Position X="0.5" Y="3.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>OfficeSupplyPO.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Bridge.ManufacturingMaterialPO">
+    <Position X="2.5" Y="3.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>ManufacturingMaterialPO.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Bridge.Retailer">
+    <Position X="5" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>BAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAQAAAAA=</HashCode>
+      <FileName>Retailer.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Bridge.WholesalerClass1">
+    <Position X="7" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAQAAAAA=</HashCode>
+      <FileName>WholesalerClass1.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
