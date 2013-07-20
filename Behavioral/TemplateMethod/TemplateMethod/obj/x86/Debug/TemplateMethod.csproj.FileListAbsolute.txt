@@ -1,5 +1,0 @@
-F:\snippets2\Patterns\Behavioral\TemplateMethod\TemplateMethod\bin\Debug\TemplateMethod.exe
-F:\snippets2\Patterns\Behavioral\TemplateMethod\TemplateMethod\bin\Debug\TemplateMethod.pdb
-F:\snippets2\Patterns\Behavioral\TemplateMethod\TemplateMethod\obj\x86\Debug\TemplateMethod.csprojResolveAssemblyReference.cache
-F:\snippets2\Patterns\Behavioral\TemplateMethod\TemplateMethod\obj\x86\Debug\TemplateMethod.exe
-F:\snippets2\Patterns\Behavioral\TemplateMethod\TemplateMethod\obj\x86\Debug\TemplateMethod.pdb

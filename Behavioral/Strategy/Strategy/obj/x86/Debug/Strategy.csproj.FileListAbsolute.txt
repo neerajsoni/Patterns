@@ -1,5 +1,0 @@
-F:\snippets2\Patterns\Behavioral\Strategy\Strategy\bin\Debug\Strategy.exe
-F:\snippets2\Patterns\Behavioral\Strategy\Strategy\bin\Debug\Strategy.pdb
-F:\snippets2\Patterns\Behavioral\Strategy\Strategy\obj\x86\Debug\Strategy.csprojResolveAssemblyReference.cache
-F:\snippets2\Patterns\Behavioral\Strategy\Strategy\obj\x86\Debug\Strategy.exe
-F:\snippets2\Patterns\Behavioral\Strategy\Strategy\obj\x86\Debug\Strategy.pdb

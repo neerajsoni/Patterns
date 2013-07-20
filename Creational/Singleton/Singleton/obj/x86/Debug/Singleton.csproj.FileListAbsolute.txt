@@ -1,5 +1,0 @@
-F:\snippets2\Patterns\Creational\Singleton\Singleton\bin\Debug\Singleton.exe
-F:\snippets2\Patterns\Creational\Singleton\Singleton\bin\Debug\Singleton.pdb
-F:\snippets2\Patterns\Creational\Singleton\Singleton\obj\x86\Debug\Singleton.csprojResolveAssemblyReference.cache
-F:\snippets2\Patterns\Creational\Singleton\Singleton\obj\x86\Debug\Singleton.exe
-F:\snippets2\Patterns\Creational\Singleton\Singleton\obj\x86\Debug\Singleton.pdb

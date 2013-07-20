@@ -1,5 +1,0 @@
-F:\snippets2\Patterns\Behavioral\State\State\bin\Debug\State.exe
-F:\snippets2\Patterns\Behavioral\State\State\bin\Debug\State.pdb
-F:\snippets2\Patterns\Behavioral\State\State\obj\x86\Debug\State.csprojResolveAssemblyReference.cache
-F:\snippets2\Patterns\Behavioral\State\State\obj\x86\Debug\State.exe
-F:\snippets2\Patterns\Behavioral\State\State\obj\x86\Debug\State.pdb

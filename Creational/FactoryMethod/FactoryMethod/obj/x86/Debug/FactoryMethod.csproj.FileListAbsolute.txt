@@ -1,5 +1,0 @@
-F:\snippets2\Patterns\Creational\FactoryMethod\FactoryMethod\bin\Debug\FactoryMethod.exe
-F:\snippets2\Patterns\Creational\FactoryMethod\FactoryMethod\bin\Debug\FactoryMethod.pdb
-F:\snippets2\Patterns\Creational\FactoryMethod\FactoryMethod\obj\x86\Debug\FactoryMethod.csprojResolveAssemblyReference.cache
-F:\snippets2\Patterns\Creational\FactoryMethod\FactoryMethod\obj\x86\Debug\FactoryMethod.exe
-F:\snippets2\Patterns\Creational\FactoryMethod\FactoryMethod\obj\x86\Debug\FactoryMethod.pdb
