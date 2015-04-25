@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="UTF-8">
+<title>Function Interceptor</title>
+<script>
+    Function.prototype.createInterceptor = function createInterceptor(fn) {
+        var scope = {},
+            original = this; //<-- add this
+        return function () {
+            if (fn.apply(scope, arguments)) {
+                return original.apply(scope, arguments);
+            }
+            else {
+                return null;
+            }
+        };
+    };
+    var interceptMe = function cube(x) {
+            console.info(x);
+            return Math.pow(x, 3);
+        };
+    //
+    var cube = interceptMe.createInterceptor(function (x) {
+        return typeof x === "number";
+    });
+</script>
+</head>
+<body>
+	<label id="l1">l1</label>
+    <label id="l2">l2</label>
+</body>
+
+<script>
+    document.getElementById('l1').innerHTML = cube(3);
+    document.getElementById('l2').innerHTML = cube("3");
+
+    alert('cube(3) = ' + cube(3));
+    alert('cube("3" = ) ' + cube("3"));
+</script>
+
+</html>
